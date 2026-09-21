@@ -13,7 +13,9 @@ Técnico em Manutenção e Suporte em Informática | E. E. Juscelino Kubitschek 
 Competências e Áreas de Atuação:
 
 Redes e Infraestrutura: Protocolos de rede, arquitetura de sistemas, servidores e cabeamento.
+
 Manutenção e Suporte: Diagnóstico, montagem, manutenção de hardware e suporte técnico.
+
 Engenharia e Tecnologia: Transição para Engenharia de Computação, com foco no desenvolvimento de projetos e análise de sistemas.
 
 🎓 C&T na UFRN (foco em Engenharia de Computação) & Redes no IFRN
