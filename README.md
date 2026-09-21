@@ -5,8 +5,8 @@ Olá! Chamo-me Maria Alicy da Silva Fernandes, tenho 20 anos e sou natural do Ri
 Formação Académica e Técnica:
 
 Ciência e Tecnologia | Universidade Federal do Rio Grande do Norte (UFRN) — Em curso
-                        Redes de Computadores | Instituto Federal do Rio Grande do Norte (IFRN) — Em curso
-                        Técnico em Manutenção e Suporte em Informática | E. E. Juscelino Kubitschek — Concluído
+Redes de Computadores | Instituto Federal do Rio Grande do Norte (IFRN) — Em curso
+Técnico em Manutenção e Suporte em Informática | E. E. Juscelino Kubitschek — Concluído
 
 Competências e Áreas de Atuação:
 
