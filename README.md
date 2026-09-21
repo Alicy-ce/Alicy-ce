@@ -1,4 +1,4 @@
-# Hi there, I'm Maria Alicy! 👋
+# Maria Alicy! 👋
 
 Olá! Chamo-me **Maria Alicy da Silva Fernandes**, tenho 20 anos e sou natural de Parnamirim, Rio Grande do Norte. Sou apaixonada por tecnologia e motivada pela resolução de problemas no meio digital.
 
