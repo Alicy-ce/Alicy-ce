@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👩🏻‍💻 Maria Alicy-ce
 
-<!--
-**Alicy-ce/Alicy-ce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá! Chamo-me Maria Alicy da Silva Fernandes, tenho 20 anos e sou natural do Rio Grande do Norte. Sou apaixonada por tecnologia e motivada pela resolução de problemas no meio digital.
 
-Here are some ideas to get you started:
+Formação Académica e Técnica:
+Ciência e Tecnologia | Universidade Federal do Rio Grande do Norte (UFRN) — Em curso
+Redes de Computadores | Instituto Federal do Rio Grande do Norte (IFRN) — Em curso
+Técnico em Manutenção e Suporte em Informática | E. E. Juscelino Kubitschek — Concluído
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Competências e Áreas de Atuação:
+Redes e Infraestrutura: Protocolos de rede, arquitetura de sistemas, servidores e cabeamento.
+Manutenção e Suporte: Diagnóstico, montagem, manutenção de hardware e suporte técnico.
+Engenharia e Tecnologia: Transição para Engenharia de Computação, com foco no desenvolvimento de projetos e análise de sistemas.
+
+🎓 C&T na UFRN (foco em Engenharia de Computação) & Redes no IFRN
+💻 Técnica em Manutenção e Suporte em Informática
+🌐 Apaixonada por redes, infraestrutura, hardware e tecnologia
+📍 Parnamirim — Rio Grande do Norte, Brasil
