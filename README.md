@@ -13,6 +13,9 @@ Manutenção e Suporte: Diagnóstico, montagem, manutenção de hardware e supor
 Engenharia e Tecnologia: Transição para Engenharia de Computação, com foco no desenvolvimento de projetos e análise de sistemas.
 
 🎓 C&T na UFRN (foco em Engenharia de Computação) & Redes no IFRN
+
 💻 Técnica em Manutenção e Suporte em Informática
+
 🌐 Apaixonada por redes, infraestrutura, hardware e tecnologia
+
 📍 Parnamirim — Rio Grande do Norte, Brasil
